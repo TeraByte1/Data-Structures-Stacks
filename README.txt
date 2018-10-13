@@ -1,7 +1,3 @@
-Teresita Esver
-Dr. Hao Ji 
-10/10/2018
-
 Project 2: Use the ADT stack to process algebraic expressions 
 and implement the ADT stack by using a resizable array, linked
 chain, and a vector. 
